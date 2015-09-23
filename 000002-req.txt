@@ -1,0 +1,1 @@
+TGetInfoReq(sessionHandle:TSessionHandle(sessionId:THandleIdentifier(guid:CF 49 31 AA 41 B5 43 B3 93 BA EA 2F 70 19 22 C7, secret:87 6C 8D C1 B2 E1 28 21 C7 3A E8 8E 6A EA 31 4D)), infoType:CLI_DBMS_NAME)

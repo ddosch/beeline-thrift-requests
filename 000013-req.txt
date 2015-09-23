@@ -1,0 +1,1 @@
+TCloseOperationReq(operationHandle:TOperationHandle(operationId:THandleIdentifier(guid:5C D1 71 79 AC BE 41 96 92 FD B1 DA 64 8A C4 9D, secret:94 BE 82 19 9E BE 71 69 45 3D 18 CD 20 50 87 A9), operationType:EXECUTE_STATEMENT, hasResultSet:true))

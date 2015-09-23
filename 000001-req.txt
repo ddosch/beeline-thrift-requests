@@ -1,0 +1,1 @@
+TOpenSessionReq(client_protocol:HIVE_CLI_SERVICE_PROTOCOL_V7, configuration:{use:database=default})

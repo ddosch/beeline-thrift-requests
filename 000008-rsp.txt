@@ -1,0 +1,1 @@
+TFetchResultsResp(status:TStatus(statusCode:SUCCESS_STATUS), hasMoreRows:false, results:TRowSet(startRowOffset:0, rows:[], columns:[<TColumn stringVal:TStringColumn(values:[], nulls:00)>, <TColumn i64Val:TI64Column(values:[], nulls:00)>, <TColumn doubleVal:TDoubleColumn(values:[], nulls:00)>]))

@@ -1,0 +1,1 @@
+TGetInfoResp(status:TStatus(statusCode:SUCCESS_STATUS), infoValue:<TGetInfoValue stringValue:0.13.0>)
